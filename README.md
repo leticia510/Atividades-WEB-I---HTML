@@ -15,3 +15,8 @@ Lista de atividades:
 - [Atividade 7](Atividade7.html)
 - [Atividade 8](Atividade8.html)
 - [Atividade 9](Atividade9.html)
+- [Atividade 10](Atividade10.html)
+- [Atividade 11](Atividade11.html)
+- [Atividade 12](Atividade12.html)
+
+
